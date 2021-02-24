@@ -79,7 +79,7 @@ This is done by the Observer Pattern, which binds the different components toget
 
 ### Instructions
 ```scala
-1.Download FlightGear - open source flight simulator
+1. Download FlightGear - open source flight simulator
 2. Download copy of the project
 3. Open the Application directory
 4. Edit the file location of Server.jar in the runServer.bat
